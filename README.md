@@ -1,6 +1,8 @@
 FizzBuzz
 ========
 
+Maintenant fizzBuzz2 donne 2
+
 
 Petit algo
 
